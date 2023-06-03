@@ -15,3 +15,13 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 ---
 
 ### hoge
+
+* huga
+* huga
+
+---
+
+### Other
+
+This is what I am using as a reference.
+https://github.com/jbranchaud/til
