@@ -1,4 +1,4 @@
-# Use Tailwind in codepen
+# Use Tailwind in CodePen
 
 To use Tailwind in [CodePen](https://codepen.io/) , you need to open the settings and enter the following code into `HTML` > `Stuff for <head>`
 

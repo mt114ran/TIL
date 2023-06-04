@@ -8,15 +8,15 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 
 ### Categories
 
-* [hoge](#hoge)
+* [Tailwind](#tailwind)
 * [hoge](#)
 *
 
 ---
 
-### hoge
+### Tailwind
 
-* huga
+* [Use Tailwind in CodePen](tailwind/use-tailwind-in-codepen.md)
 * huga
 
 ---
