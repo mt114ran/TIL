@@ -8,12 +8,18 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 
 ### Categories
 
+* [JavaScript](#javascript)
 * [Tailwind](#tailwind)
 * [hoge](#)
 *
 
 ---
+### JavaScript
 
+* [Use Intersection Observer API](javascript/use-intersection-observer.md)
+* huga
+
+---
 ### Tailwind
 
 * [Use Tailwind in CodePen](tailwind/use-tailwind-in-codepen.md)
