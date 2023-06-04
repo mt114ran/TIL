@@ -1,8 +1,13 @@
 # Use Intersection Observer API
 
-How to use the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) for multiple elements. I have written the code on [CodePen](https://codepen.io/mt114ran/pen/QWZezRG), so if you have time, please try it out and see how it works.
+> How to use the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) for multiple elements.<br>
+> I have written the code on [CodePen](https://codepen.io/mt114ran/pen/QWZezRG), so if you have time, please try it out and see how it works.
 
-```html:Five colored cards.
+---
+
+First, implement the card elements in HTML. Style them using Tailwind.
+
+```html:Five colored cards
 <div class="main transition-colors bg-slate-500/25 flex flex-col md:flex">
 <h1 class="text-5xl mt-20 text-center font-extrabold">Test Intersection Observer API<br>↓</h1>
 	<div class="card rounded-3xl my-40 mx-auto top-1/2 left-1/2 text-white font-bold bg-red-400 h-screen flex justify-center items-center w-60 shadow-xl">
@@ -23,7 +28,9 @@ How to use the [Intersection Observer API](https://developer.mozilla.org/en-US/d
 </div>
 ```
 
-```javascript
+Next, we will implement the logic using the Intersection Observer API to change the background color based on the displayed card's color.The key points are how to configure the Intersection Observer to observe multiple elements and how to implement separate logic for each element:
+
+```javascript:Intersection Observer API for multiple elements
 const cards = document.querySelectorAll('.card');
 const options = {
   root: null,
@@ -59,6 +66,6 @@ function callback(entries) {
 
 ```
 
-This code will include the Tailwind CSS stylesheet in the `<head>` section of your CodePen.
+I explain it in more detail on [my personal blog](https://m-tomoya.org/how-to-intersection-observer-api/).
 
-*2023.6.4*
+*2023.6.5*
