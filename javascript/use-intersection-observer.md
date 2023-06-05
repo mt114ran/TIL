@@ -7,7 +7,7 @@
 
 First, implement the card elements in HTML. Style them using Tailwind.
 
-```html:Five colored cards
+```html
 <div class="main transition-colors bg-slate-500/25 flex flex-col md:flex">
 <h1 class="text-5xl mt-20 text-center font-extrabold">Test Intersection Observer API<br>↓</h1>
 	<div class="card rounded-3xl my-40 mx-auto top-1/2 left-1/2 text-white font-bold bg-red-400 h-screen flex justify-center items-center w-60 shadow-xl">
@@ -30,7 +30,7 @@ First, implement the card elements in HTML. Style them using Tailwind.
 
 Next, we will implement the logic using the Intersection Observer API to change the background color based on the displayed card's color.The key points are how to configure the Intersection Observer to observe multiple elements and how to implement separate logic for each element:
 
-```javascript:Intersection Observer API for multiple elements
+```javascript
 const cards = document.querySelectorAll('.card');
 const options = {
   root: null,
