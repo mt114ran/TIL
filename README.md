@@ -13,7 +13,7 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 * [Tailwind](#tailwind)
 
 ---
-### JavaScript
+### Git
 
 * [Frequently used Git commands](git/frequently-used-git-commands.md)
 
