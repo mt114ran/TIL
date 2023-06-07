@@ -1,6 +1,6 @@
 # TIL
 
-> 📝 Today I Learned
+> Today I Learned
 
 This is a collection of concise write-ups summarizing my daily learning. Although many of them cover basic topics, I will continue to maintain this repository so that I can gradually build up my knowledge. If you come across any mistakes or inaccuracies, please feel free to point them out. Your feedback is greatly appreciated.
 
@@ -8,9 +8,11 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 
 ### Categories
 
-* [Git](#git)
-* [JavaScript](#javascript)
-* [Tailwind](#tailwind)
+- [Git](#git)
+- [JavaScript](#javascript)
+- [Linux](#linux)
+- [Tailwind](#tailwind)
+- [Other](#other)
 
 ---
 ### Git
@@ -21,6 +23,11 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 ### JavaScript
 
 * [Use Intersection Observer API](javascript/use-intersection-observer.md)
+
+---
+### Linux
+
+* [Use find commands](linux/use-find-commands.md)
 
 ---
 ### Tailwind
