@@ -11,6 +11,7 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 - [Git](#git)
 - [JavaScript](#javascript)
 - [Linux](#linux)
+- [Markdown](#markdown)
 - [Tailwind](#tailwind)
 - [Other](#other)
 
@@ -28,6 +29,11 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 ### Linux
 
 * [Use find commands](linux/use-find-commands.md)
+
+---
+### Markdown
+
+* [Markdonw Cheat Sheet](markdown/markdown-cheat-sheet.md)
 
 ---
 ### Tailwind
