@@ -29,6 +29,7 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 ### Linux
 
 * [Use find commands](linux/use-find-commands.md)
+* [Use grep commands](linux/use-grep-commands.md)
 
 ---
 ### Markdown
