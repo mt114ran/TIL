@@ -28,6 +28,7 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 ---
 ### Linux
 
+* [How to output logfile with timestamp](linux/how-to-output-logfile-with-timestamp.md)
 * [Use find commands](linux/use-find-commands.md)
 * [Use grep commands](linux/use-grep-commands.md)
 
