@@ -20,6 +20,7 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 
 * [Frequently used Git commands](git/frequently-used-git-commands.md)
 * [Use git reset commands](git/use-git-reset-commands.md)
+* [Use git reflog commands](git/use-git-reflog-commands.md)
 
 ---
 ### JavaScript
