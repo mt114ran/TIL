@@ -8,6 +8,7 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 
 ### Categories
 
+- [Engineering](#engineering)
 - [Git](#git)
 - [HTML](#html)
 - [JavaScript](#javascript)
@@ -15,6 +16,11 @@ This is a collection of concise write-ups summarizing my daily learning. Althoug
 - [Markdown](#markdown)
 - [Tailwind](#tailwind)
 - [Other](#other)
+
+---
+### Engineering
+
+* [Importance of Documentation](engineering/importance-of-documentation.md)
 
 ---
 ### Git
